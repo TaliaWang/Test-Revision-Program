@@ -3,3 +3,4 @@
 Quiz program which runs multiple choice quizzes so that users can review for assessments.
 Allows users to change, add, and delete subjects, questions, and question answers.
 Please ensure the database, ICS_IA_database, is in the same folder as the JAR file. 
+The database is pre-loaded with 2 subjects, each with 6 questions, but these can be replaced/deleted.
